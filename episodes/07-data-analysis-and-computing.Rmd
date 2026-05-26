@@ -67,12 +67,15 @@ Always request resources conservatively and test with small jobs before scaling 
 ## Cloud computing
 
 Clouds provide on-demand, scalable resources:
-- Useful for bursty workloads, large-scale parallel jobs or when you need specialised hardware (for example GPUs).
-- Consider cost management (spot instances, appropriate sizing) and data egress charges.
 
-## Accessible platforms
+* Useful for bursty workloads, large-scale parallel jobs or when you need specialised hardware (for example GPUs).
+* Consider cost management (spot instances, appropriate sizing) and data egress charges.
 
-- Galaxy: a web-based platform that enables many bioinformatics analyses without command-line experience. Useful for reproducible, shareable workflows and training.
+## Galaxy
+
+Galaxy is a web-based platform that enables many bioinformatics analyses without command-line experience.
+
+* Useful for reproducible, shareable workflows and training.
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 

@@ -66,14 +66,7 @@ Plan ahead: collect required metadata from the start to meet repository and jour
 
 Think about keywords and tags (organism, study type, instrument) to improve searchability.
 
-## Metadata Exercise
 
-You may be given a multi-organism table with heterogeneous date formats and missing values. Tasks:
-
-- Normalise dates to ISO 8601.
-- Replace blanks with a consistent missing-value token and add units where missing.
-- Create a `filename` column that maps samples to expected files.
-- Provide a short README describing the chosen conventions.
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
